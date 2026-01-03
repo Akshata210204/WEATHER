@@ -4,7 +4,7 @@ A fully responsive, modern weather web application built using HTML, CSS, and Ja
 
 - - -
 
-Features
+### Features
 Get weather by geolocation or city search
 Display current temperature, weather condition, and location
 Toggle between today's hourly forecast and 7-day forecast
@@ -15,7 +15,7 @@ Modern UI with orange & white theme
 
 - - -
 
-Tech Stack
+### Tech Stack
 HTML5
 CSS3 (Responsive Grid + Flexbox)
 JavaScript (ES6+)
@@ -23,10 +23,11 @@ WeatherAPI for real-time weather data
 
 - - -
 
-Preview
+### Preview
 1.Current location Weather 
 ![image alt](https://github.com/Akshata210204/PRODIGY_WD_05/blob/main/current%20location%20weather.png?raw=true)
 2.Searched location Weather
 ![image alt](https://github.com/Akshata210204/PRODIGY_WD_05/blob/main/Searched%20location%20Weather.png?raw=true)
 
-Note: Replace apiKey in the JS file with your WeatherAPI key.
+### Note
+Replace apiKey in the JS file with your WeatherAPI key.
